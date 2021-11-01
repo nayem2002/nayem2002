@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Nayem Ahammad
 #### Frontend Developer
-![Frontend Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/250072293_432818101557527_5230040708519165195_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=tqvciizaMMoAX9zj3Tl&_nc_ht=scontent.fcgp17-1.fna&oh=501f706d819e9f97eb584132447d1898&oe=61A53AD3)
 
 I'm Frontend Developer. Constantly I learning and improving my skills and also I love learn coding.
 
