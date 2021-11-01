@@ -2,11 +2,11 @@
 <hr/>
 I'm Frontend Developer. Constantly I learning and improving my skills and also I love learn coding.
 
-🔭 I’m currently working on Amazon Clone 
-🌱 I’m currently learning Backend Development 
-👯 I’m looking to collaborate on with others professional developers 
-💬 Ask me about Web Development 
-⚡ Fun fact: I love to travelling on my free time 
+🔭 I’m currently working on Amazon Clone<br/> 
+🌱 I’m currently learning Backend Development<br/> 
+👯 I’m looking to collaborate on with others professional developers<br/> 
+💬 Ask me about Web Development<br/> 
+⚡ Fun fact: I love to travelling on my free time<br/> 
 
 ![Profile views](https://gpvc.arturio.dev/nayem2002)  
 #### Skills and Experience:
