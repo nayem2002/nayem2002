@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Nayem Ahammad
+I'm possionate Front-End Developer.I have been experience of building any kind of website 
+using JavaScript/ReactJs/NodeJs/React Native and others cool libraries and frameworks.
+
 <hr/>
-I'm Frontend Developer. Constantly I learning and improving my skills and also I love learn coding.
 <br/><br/>
-🔭 I’m currently working on Amazon Clone<br/> 
+🔭 I’m currently working on Freelancing marketplace<br/> 
 🌱 I’m currently learning Backend Development<br/> 
 👯 I’m looking to collaborate on with others professional developers<br/> 
 💬 Ask me about Web Development<br/> 
