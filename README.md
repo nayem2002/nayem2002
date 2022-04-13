@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/248374512_432818094890861_7528135426751949212_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJp5QXW7TlVxYwRyAxCWGCIgiTU-lyEoEiCJNT6XISgZUIWXgBE4CIV_TLgr8N8XZ84Iov4NLstPUS9oaPCGXZ&_nc_ohc=gETpJ_P8-wsAX8lENyf&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9IF3_EQzDjSQUYThy8Pk3SaLUpUdp7y0q6Eod1B3bCLA&oe=61E0A537">
+<img align="right" alt="Coding" width="400" src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/248374512_432818094890861_7528135426751949212_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Tqil5Q8ytBcAX_7rvGQ&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9SfMGv_OjeAF0icMnyOkyEcd3m66RCUagTTgXNkPSffw&oe=625B40B7">
 <h1 align="center">Hi 👋, I'm Nayem Ahammad</h1>
-<h3 align="center">I'm possionate Front-End Developer.I have been experience of building any kind of website using JavaScript/ReactJs/NodeJs/React Native and others cool libraries and frameworks.</h3>
+<h3 align="center">I'm possionate Full Stack Web and App Developer.I have been experience of building any kind of website using JavaScript/ReactJs/NodeJs/React Native and others cool libraries and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayem2002&label=Profile%20views&color=0e75b6&style=flat" alt="nayem2002" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **with others professional developers**
+- 👯 I’m looking to collaborate on **with any IT Company**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web & App Development**
 
 - 📫 How to reach me **nayemchaudhari@gmail.com**
 
